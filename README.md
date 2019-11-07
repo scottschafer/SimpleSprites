@@ -1,2 +1,0 @@
-# SimpleSprites
-Created with CodeSandbox
